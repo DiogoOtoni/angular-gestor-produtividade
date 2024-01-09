@@ -1,3 +1,10 @@
+# Gestor de produtividade - A Evolução da To Do List !
+
+Trata-se de um projeto que tem como proposta evoluir a To Do List tão conhecida em iniciantes na programação.
+
+
+
+
 # AngularGestorProdV1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
